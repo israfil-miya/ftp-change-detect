@@ -34,7 +34,10 @@ async function sendMailTo(email, htmlBody) {
 
 function credentialsDefiner(){
   
-  let credentials = {}
+  let credentials = {
+    connTimeout: 60000,
+    pasvTimeout: 60000,
+  }
   
   let host = process.env.HOST
   let port = process.env.PORT
