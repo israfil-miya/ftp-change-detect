@@ -40,7 +40,7 @@ function credentialsDefiner(){
   }
   
   let host = process.env.HOST
-  let port = process.env.PORT
+  let port = process.env.FTPPORT
   let user = process.env.USERNAME
   let password = process.env.PASSWORD
   let anonymous = process.env.ANONYMOUS
