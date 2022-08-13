@@ -1,0 +1,20 @@
+{
+  "name": "FtpServerWatcher",
+  "version": "1.0.0",
+  "description": "A simple ftp server watcher",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Jubayer Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "@breejs/later": "^4.1.0",
+    "dotenv": "^16.0.1",
+    "ftp": "^0.3.10",
+    "nodemailer": "^6.7.8"
+  }
+}
