@@ -17,6 +17,8 @@ Structure:
 }
 
 
+Add as many as you want. Separate by a Comma ( , )
+
 */
 
 
