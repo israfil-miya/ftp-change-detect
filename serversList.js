@@ -65,6 +65,16 @@ let ftpServers =
       name: 'HH Studio'
     }
   },
+  {
+    info: {
+      host: '92.205.7.115',
+      user: 'theblakeimage@studioclickhouse.com',
+      password: 'blake@2022'
+    },
+    additionalInfo: {
+      name: 'The Blake Image'
+    }
+  },
 ]
 
 
